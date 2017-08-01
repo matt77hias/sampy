@@ -1,4 +1,4 @@
-# fibpy
+# sampy
 
 ## About
 Sampling utilities.
