@@ -1,7 +1,8 @@
 # sampy
 
 ## About
-Sampling utilities. (See also: [Fibonacci spiral sampling (Quasi-Monte Carlo techniques) utilities](https://github.com/matt77hias/fibpy))
+Sampling utilities. 
+(See also: [Fibonacci spiral sampling (Quasi-Monte Carlo techniques) utilities](https://github.com/matt77hias/fibpy))
 
 ## Use
 
